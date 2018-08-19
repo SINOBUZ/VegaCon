@@ -1,5 +1,3 @@
-// (C) Vegarian
-// Coded on GA-ON High School
 // Consulted PumpkinCon(https://github.com/kkkyyy03/PumpkinCon) by RedPumpkin,
 // Everyone is permitted to copy and distribute this code
 
